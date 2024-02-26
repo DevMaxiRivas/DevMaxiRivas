@@ -11,11 +11,7 @@
   <img src="https://komarev.com/ghpvc/?username=devmaxirivas&label=Profile%20views&color=0e75b6&style=flat" alt="devmaxirivas"/> 
 </p>
 
-<p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=devmaxirivas" alt="devmaxirivas" />
-  </a> 
-</p>
+
 
 - 🌱 I’m currently deepening my **knowledge of PHP**
 - 💬 You can ask me about **C, Java, HTML, CSS, JavaScript, PHP, Python**
@@ -98,23 +94,32 @@
 </p>
 <br>
 
-<h3 align="left">Statistics:</h3>
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=devmaxirivas&show_icons=true&locale=en&layout=compact" alt="devmaxirivas" />
-</p>
-<p>&nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=devmaxirivas&show_icons=true&locale=en" alt="devmaxirivas"/>
-</p>
+## Statistics
 
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=devmaxirivas&" alt="devmaxirivas"/>
-</p>
+<div style="width: 100%; display: block; position: relative;">
+  <div style="left: 0; right: 0; top: 0; bottom: 0; margin: auto;">
+    <img src="https://github-readme-stats.vercel.app/api?username=DevMaxiRivas&count_private=true&include_all_commits=true&show_icons=true&theme=dark&hide_title=true&locale=es" alt="GitHub Stats">
+  </div>
+</div>
 
-<h2 tabindex="-1" dir="auto"><a id="user-content-contact-us" class="anchor" aria-hidden="true" tabindex="-1" href="#contact-us"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a>Contact me</h2>
+### Languages
+
+<div style="display: block; position: relative;">
+  <div style="left: 0; right: 0; top: 0; bottom: 0; margin: auto;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevMaxiRivas&theme=dark&hide_title=true&locale=es" alt="Lenguajes más usados">
+  </div>
+</div>
+
+
+
+
+
+
+## Contact Me
 <a href="mailto:maximilianorivas01@gmail.com">
-<img src="https://camo.githubusercontent.com/9ac2c947e1faddb8f6c6a01ab729a8648b8db305476fa91cff3737175ac197f9/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f676d61696c2d2532333030616365652e7376673f636f6c6f723d454134333335267374796c653d666f722d7468652d6261646765266c6f676f3d676d61696c266c6f676f436f6c6f723d7768697465" alt="gmail" data-canonical-src="https://img.shields.io/badge/gmail-%2300acee.svg?color=EA4335&amp;style=for-the-badge&amp;logo=gmail&amp;logoColor=white" style="max-width: 100%;">
+  <img src="https://camo.githubusercontent.com/9ac2c947e1faddb8f6c6a01ab729a8648b8db305476fa91cff3737175ac197f9/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f676d61696c2d2532333030616365652e7376673f636f6c6f723d454134333335267374796c653d666f722d7468652d6261646765266c6f676f3d676d61696c266c6f676f436f6c6f723d7768697465" alt="gmail" data-canonical-src="https://img.shields.io/badge/gmail-%2300acee.svg?color=EA4335&amp;style=for-the-badge&amp;logo=gmail&amp;logoColor=white" style="max-width: 100%;">
 </a>
 <a href="https://github.com/DevMaxiRivas">
-<img src="https://camo.githubusercontent.com/e9a9f60cb13de944bc8dfefadf8c38a162ac2d36a0934455e9cd89aad4ea6132/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6769746875622d2532333030616365652e7376673f636f6c6f723d313831373137267374796c653d666f722d7468652d6261646765266c6f676f3d676974687562266c6f676f436f6c6f723d7768697465" alt="github" data-canonical-src="https://img.shields.io/badge/github-%2300acee.svg?color=181717&amp;style=for-the-badge&amp;logo=github&amp;logoColor=white" style="max-width: 100%;">
+  <img src="https://camo.githubusercontent.com/e9a9f60cb13de944bc8dfefadf8c38a162ac2d36a0934455e9cd89aad4ea6132/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6769746875622d2532333030616365652e7376673f636f6c6f723d313831373137267374796c653d666f722d7468652d6261646765266c6f676f3d676974687562266c6f676f436f6c6f723d7768697465" alt="github" data-canonical-src="https://img.shields.io/badge/github-%2300acee.svg?color=181717&amp;style=for-the-badge&amp;logo=github&amp;logoColor=white" style="max-width: 100%;">
 </a>
 
