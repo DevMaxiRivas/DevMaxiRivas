@@ -96,19 +96,15 @@
 
 ## Statistics
 
-<div style="width: 100%; display: block; position: relative;">
-  <div style="left: 0; right: 0; top: 0; bottom: 0; margin: auto;">
+<p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=DevMaxiRivas&count_private=true&include_all_commits=true&show_icons=true&theme=dark&hide_title=true&locale=es" alt="GitHub Stats">
-  </div>
-</div>
+</p>
 
 ### Languages
 
-<div style="display: block; position: relative;">
-  <div style="left: 0; right: 0; top: 0; bottom: 0; margin: auto;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevMaxiRivas&theme=dark&hide_title=true&locale=es" alt="Lenguajes más usados">
-  </div>
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevMaxiRivas&theme=dark&hide_title=true&locale=es" alt="Lenguajes más usados">
+</p>
 
 
 
