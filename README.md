@@ -1,5 +1,18 @@
 # 💫 About Me:
-A person passionate about web application development, I am currently living in Salta, Argentina.<br>I am in the National University of Salta doing the careers of:<br>Bachelor in Systems Analysis<br>Programming Technician<br><br>🌱 I’m currently deepening my knowledge of Spring Boot<br>💬 You can ask me about C, Java, JavaScript, PHP, Python<br>📫 How to reach me maximilianorivas01@gmail.com
+<b>A person passionate about web application development, I am currently living in Salta, Argentina.</b><br>
+I am in the National University of Salta doing the careers of:<br>
+<ul>
+  <li>
+    Bachelor in Systems Analysis
+  </li>
+  <li>
+    Programming Technician
+  </li>
+</ul>
+<br>
+🌱 I’m currently deepening my knowledge of Spring Boot<br>
+💬 You can ask me about C, Java, JavaScript, PHP, Python<br>
+📫 How to reach me maximilianorivas01@gmail.com
 
 
 ## 🌐 Socials:
