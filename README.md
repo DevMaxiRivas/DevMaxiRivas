@@ -13,7 +13,7 @@ I am in the National University of Salta doing the careers of:<br>
 🌱 I’m currently deepening my knowledge of Spring Boot<br>
 💬 You can ask me about C, Java, JavaScript, PHP, Python<br>
 📫 How to reach me maximilianorivas01@gmail.com<br>
-💼 Check out my portfolio [HERE](https://portafolio.devmaxirivas.cloud/)
+💼 Check out my portfolio <a href="https://portafolio.devmaxirivas.cloud" target="_blank">HERE</a>
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/maxi.rivas.ok) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/maxi.rivas.ok) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/maximiliano-e-rivas) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@maximiliano.e.rivas.01) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:maximiliano.rivas.work@gmail.com) 
